@@ -329,7 +329,7 @@ class PIE(object):
         :return: A dictionary of annotations
         """
         path_to_file = join(self._annotation_path, setid, vid + '_annt.xml')
-        print(path_to_file)
+        # print(path_to_file)
 
         tree = ET.parse(path_to_file)
         ped_annt = 'ped_annotations'
