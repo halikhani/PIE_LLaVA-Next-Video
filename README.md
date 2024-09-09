@@ -1,0 +1,2 @@
+Pedestrian Intention Estimation (PIE) with fine-tuned LLaVA-Next-Video
+The implementation of this project relies on resources from [PIE](https://github.com/aras62/PIE/tree/master) and [this link](https://colab.research.google.com/drive/1dTdro-k7NFqRgGq5-TlGHM-6k2sYQhXp#scrollTo=4ccbd183-f15a-4f94-a526-9ceeec3f61e0). We thank the original authors for their open-sourcing.
